@@ -4,7 +4,7 @@
   <title><![CDATA[Mister Mist]]></title>
   <link href="http://paulmist.github.com/atom.xml" rel="self"/>
   <link href="http://paulmist.github.com/"/>
-  <updated>2012-04-12T20:48:25+01:00</updated>
+  <updated>2012-04-12T21:06:33+01:00</updated>
   <id>http://paulmist.github.com/</id>
   <author>
     <name><![CDATA[Paul Mist]]></name>
@@ -12,5 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Post Created for Testing]]></title>
+    <link href="http://paulmist.github.com/blog/2012/04/12/a-post-created-for-testing/"/>
+    <updated>2012-04-12T21:00:00+01:00</updated>
+    <id>http://paulmist.github.com/blog/2012/04/12/a-post-created-for-testing</id>
+    <content type="html"><![CDATA[<h1>Header</h1>
+
+<p>Lorem <em>Ipsum</em> is <em>simply</em> dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+
+<p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+
+<ol>
+<li>List item</li>
+<li>List item</li>
+</ol>
+
+]]></content>
+  </entry>
   
 </feed>
